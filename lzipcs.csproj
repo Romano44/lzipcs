@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Optimize>true</Optimize>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks> <!-- If needed for memory optimizations -->
+    <DebugType>full</DebugType>      
+    
+ <!--   <ServerGarbageCollection>true</ServerGarbageCollection> -->
+ <!--   <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection> -->
+<!--    <GCLatencyMode>LowLatency</GCLatencyMode> -->
+ <!--   <GCHeapHardLimit>2147483648</GCHeapHardLimit> -->
+
+    <StripSymbols>true</StripSymbols>   
+<!--    <PublishAot>true</PublishAot> -->
+    <SelfContained>true</SelfContained>     
+<!--    <RuntimeIdentifier>linux-x64</RuntimeIdentifier> -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier> 
+
+  </PropertyGroup>
+
+</Project>
+

@@ -1,0 +1,1 @@
+edit .csproj if needed and run: dotnet publish -c Release
