@@ -1,4 +1,4 @@
-Lzipcs is a translation of lzip to C# NET.
+```Lzipcs is a translation of lzip to C# NET.
 Mainly as a curiosity driven benchmark experiment of NET and C#. Original author 
 is neither affiliated nor responsible for this project in any way. All the
 credit for original lzip goes to Antonio Diaz Diaz. Do NOT contact original
@@ -37,3 +37,4 @@ Options:
       --loose-trailing           allow trailing data seeming corrupt header
 
 NOTE: Short options need space between argument and cannot be stacked together!
+```
