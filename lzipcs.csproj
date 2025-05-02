@@ -14,7 +14,8 @@
 <!--    <GCLatencyMode>LowLatency</GCLatencyMode> -->
  <!--   <GCHeapHardLimit>2147483648</GCHeapHardLimit> -->
 
-    <StripSymbols>true</StripSymbols>   
+    <PublishSingleFile>true</PublishSingleFile>
+    <TrimMode>full</TrimMode>      <!-- Aggressive size reduction -->    <StripSymbols>true</StripSymbols>   
 <!--    <PublishAot>true</PublishAot> -->
     <SelfContained>true</SelfContained>     
 <!--    <RuntimeIdentifier>linux-x64</RuntimeIdentifier> -->
