@@ -13,7 +13,7 @@ meant to be regularly updated 1:1 translation, but a one time fork with own
 purpose.
 
 Original code: lzip v1.25,
-Copyright (C) {program_year} Antonio Diaz Diaz. 
+Copyright (C) 2025 Antonio Diaz Diaz. 
 Original lzip home page: http://www.nongnu.org/lzip/lzip.html
 
 ```
