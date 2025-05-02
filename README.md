@@ -1,4 +1,4 @@
-```Lzipcs is a translation of lzip to C# NET.
+Lzipcs is a translation of lzip to C# NET.
 Mainly as a curiosity driven benchmark experiment of NET and C#. Original author 
 is neither affiliated nor responsible for this project in any way. All the
 credit for original lzip goes to Antonio Diaz Diaz. Do NOT contact original
@@ -16,7 +16,7 @@ Original code: lzip v1.25,
 Copyright (C) {program_year} Antonio Diaz Diaz. 
 Original lzip home page: http://www.nongnu.org/lzip/lzip.html
 
-
+```
 Usage: lzipcs [options] [files]
 Options:
   -h, --help                     display this help and exit
